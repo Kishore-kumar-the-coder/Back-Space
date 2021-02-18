@@ -16,7 +16,7 @@ html, body {
   
   .whole {
     height: 100%;
-    background: yellow;
+    background-color: black;
   }
 button{
 margin: auto;
@@ -24,7 +24,7 @@ margin: auto;
 
     background-color: #4CAF50; /* Green */
     border: none;
-    color: white;
+    color:black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -34,7 +34,10 @@ margin: auto;
     
     cursor: pointer;
 }
-.button5 {background-color: #555555;} /* Black */
+a{
+  text-decoration: none;
+}
+.button5 {background-color: whitesmoke;} /* Black */
 body{
     top:0;
     left:0;
